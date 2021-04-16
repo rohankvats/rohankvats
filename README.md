@@ -9,17 +9,14 @@
   <a href="https://www.linkedin.com/in/rohankvats">LinkedIn</a>
 </p>
 
-<br />
-
-💫 I'm currently working with my hands to make magic happen on the web. 
-
-📫 You can reach me at rohankvats@gmail.com.<br/>
+<br /> 
+An Engineering Manager & Frontend Engineer currently based in Mumbai, India
+⚡ Coming Soon: Noteworthy JS series and Engineering Management Playbook
 
  - 😄 Pronouns: He/him
  - 🔭 I’m currently working on building web-based products and high performing teams at upGrad.
  - 🚀 I am passionate about building fast, intuitive and delightful web experiences.
  - 🤔 I’m looking for help with Hybrid Agile lifecycle Playbooks
  - 🌱 I’m currently learning about Engineering Management, and everything around JavaScript.
- - ⚡ Fun fact: I cook and clean extensively
 
 <h4 align='left'><i>Stay awesome!</i></h4>
