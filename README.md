@@ -10,7 +10,7 @@
 </p>
 
 <br /> 
-An Engineering Manager & Frontend Engineer currently based in Mumbai, India
+An Engineering Manager & Frontend Engineer currently based in Mumbai, India<br /> 
 ⚡ Coming Soon: Noteworthy JS series and Engineering Management Playbook
 
  - 😄 Pronouns: He/him
