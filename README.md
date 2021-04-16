@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://rohanvats-portfolio.vercel.app/static/favicons/safari-pinned-tab.svg" width="80" />  
+  <img src="https://rohanvats-portfolio.vercel.app/static/favicons/android-chrome-512x512.png" width="80" />  
   <p align="left">Hi there 👋, I'm Rohan Vats</p>
 </p>
 
