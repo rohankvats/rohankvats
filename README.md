@@ -1,6 +1,5 @@
 <p align="left">
-  <img src="https://rohanvats-portfolio.vercel.app/static/favicons/android-chrome-512x512.png" width="80" />  
-  <p align="left">Hi there 👋, I'm Rohan Vats</p>
+  <p align="left">Hey 👋, I'm Rohan Vats</p>
 </p>
 
 <p align="left">
@@ -10,13 +9,12 @@
 </p>
 
 <br /> 
-An Engineering Manager & Frontend Engineer currently based in Mumbai, India<br /> 
+an Engineering Leader and Frontend enthusiast that's passionate about Growing Engineers and building high performance teams.<br /> 
 ⚡ Coming Soon: Noteworthy JS series and Engineering Management Playbook
 
- - 😄 Pronouns: He/him
- - 🔭 I’m currently working on building web-based products and high performing teams at upGrad.
+ - 🔭 I’m currently working on building operations-oriented products and high performing teams.
  - 🚀 I am passionate about building fast, intuitive and delightful web experiences.
  - 🤔 I’m looking for help with Hybrid Agile lifecycle Playbooks
- - 🌱 I’m currently learning about Engineering Management, and everything around JavaScript.
+
 
 <h4 align='left'><i>Stay awesome!</i></h4>
